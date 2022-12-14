@@ -62,7 +62,7 @@ Oké, terug naar onze eerste section ("Wat klanten zeggen over ons");
 - [ ] Plaats de tekst in de witte vlakken en zorg dat er voldoende ruimte tussen de tekst en het eind van het witte vlak ontstaat;
 - [ ] De afbeelding en naam van de auteur moeten samen in een groepje komen te staan. Welk element lijkt jou daarvoor geschikt?
 - [ ] Maak de afbeeldingen 44 pixels bij 44 pixels groot. Maak er vervolgens cirkels van, door de juiste `border-radius` te gebruiken. Om de afbeelding en de naam nu vervolgens naast elkaar te krijgen in plaats van onder elkaar, zul je iets moeten doen met de [display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)-property van de naam;
-- [ ] _Tip:_ wil je ze netjes uitlijnen met de tekst? Spiek dan eens bij de [vertical-align](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align)-property!
+- [ ] _Tip:_ wil je ze netjes uitlijnen met de tekst? Spiek dan eens bij de [vertical-align]()-https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-alignproperty!
 - [ ] Ten slotte is het tijd om het `quote`-teken in te voegen. Deze afbeelding kun je vinden in de map `assets`. Om het element op de juiste plek te krijgen, heb je de `position`-property nodig. _Positioneer deze afbeelding tenopzichte van het witte vlak._ Het helpt om de tekst wat extra padding te geven zodat deze ruimte maakt voor het quote-teken.
 
 ### 1.7 Footer
@@ -113,4 +113,8 @@ Oké, terug naar onze eerste section ("Wat klanten zeggen over ons");
 > Ja, je kunt een domeinnaam registreren zonder deze te gebruiken. Dit gebeurt regelmatig. Ten eerste zijn er veel ondernemers die de domeinnaam van hun nieuwe bedrijf alvast registreren, terwijl ze nog lang geen website hebben. Zij willen simpelweg zeker weten dat de domeinnaam nog beschikbaar is als hun website af is en registreren deze daarom alvast. Verstandig, zeker als je een domeinnaam wil registreren die andere mensen ook interessant kunnen vinden.
 >
 -------------------------------------------------------------------------
+> Copyright © 2022, all rights reserved.
+>Copyright © 2022, all rights reserved.
+> Copyright © 2022, all rights reserved.
+> Copyright © 2022, all rights reserved.
 > Copyright © 2022, all rights reserved.
